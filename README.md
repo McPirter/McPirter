@@ -1,8 +1,8 @@
-# ¡Hola! Soy Erick Juanpedro Esquivel 👋
+# ¡Hola! Soy Erick 👋
 
-### Desarrollador Web Full Stack 👨‍💻
+### Desarrollador Web 👨‍💻
 
-Soy un Desarrollador Web Full Stack con experiencia práctica en la construcción de aplicaciones web de producción y soluciones académicas. Me especializo en el ecosistema de JavaScript y TypeScript, construyendo interfaces modernas y APIs robustas. 
+Soy un Desarrollador Web con experiencia práctica en la construcción de aplicaciones web de producción y soluciones académicas. Me especializo en el ecosistema de JavaScript y TypeScript, construyendo interfaces modernas y APIs robustas. 
 
 En mi experiencia profesional, he logrado automatizar procesos administrativos complejos, reduciendo hasta un **70% el tiempo** de generación y gestión de documentos críticos.
 
